@@ -3,7 +3,7 @@ def introduction(name = "Josh")
 end
 
 def introduction_with_language(name = "Dan", language = "Ember.js")
-  puts "Hi, my name is #{name} and I am leanring to program #{language}."
+  puts "Hi, my name is #{name} and I am leanring to program in #{language}."
 end
 
 def introduction_with_language(name, language = "Ruby")
