@@ -1,5 +1,5 @@
 name = "Dan", "Josh"
-language = if "#{name} = Dan ? #{language} = ""Ember.js", "React"
+language = "Ember.js"
 
 
 def introduction(name)
