@@ -2,7 +2,7 @@ def introduction(name = "Josh", "Dan")
   puts "Hi, my name is #{name}."
 end
 
-def introduction_with_language(if name = "Dan" ? language = "Ember.js" : language = "React"
+def introduction_with_language(name = "Dan", language = "Ember.js")
   puts "Hi, my name is #{name} and I am leanring to program in #{language}."
 end
 
